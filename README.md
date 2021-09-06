@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**podput/podput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### My name is Boyan Karakostov.
 
-Here are some ideas to get you started:
+I'm a:
+* student
+* aspiring web designer
+* freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I love Python!**
+
+<!-- 
+ _______________________________________
+|\ ___________________________________ /|
+| | _                               _ | |
+| |(+)        _           _        (+)| |
+| | ~      _--/           \--_      ~ | |
+| |       /  /             \  \       | |
+| |      /  |               |  \      | |
+| |     /   |               |   \     | |
+| |     |   |    _______    |   |     | |
+| |     |   |    \     /    |   |     | |
+| |     \    \_   |   |   _/    /     | |
+| |      \     -__|   |__-     /      | |
+| |       \_                 _/       | |
+| |         --__         __--         | |
+| |             --|   |--             | |
+| |               |   |               | |
+| |                | |                | |
+| |                 |                 | |
+| |                                   | |
+| |   I S   G O O D   F O R   Y O U   | |
+| | _                               _ | |
+| |(+)                             (+)| |
+| | ~                               ~ | |
+|/ ----------------------------------- \|
+ --------------------------------------- -->
