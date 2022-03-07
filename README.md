@@ -2,10 +2,21 @@
 
 ##### My name is Boyan Karakostov.
 
-I'm a:
-* student
-* aspiring web designer
-* freelancer
+I'm a:  
+  
+* student 🎓 
+* aspiring software engineer 💻 
+* freelancer 🏃🏻  
+* radio amateur 📻  
+* rocket league fanatic ⚽🚗  
+
+I have experience with:  
+   
+* HTML/CSS/JS 🌐  
+* Django/Flask 🖥   
+* Bash scripting 🐚 
+* Linux Management 🐧  
+* Python scripting and bots 🐍🤖
 
 **I love Python!**
 
