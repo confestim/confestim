@@ -3,7 +3,6 @@
 
 <h3 align="center"> My name is Boyan!</h3>
 <p align= "center"> + CS student 🎓 <br>
-+ aspiring software engineer 💻<br>
 + freelancer 🏃🏻<br>
 + radio amateur 📻<br>  
 I like to self-host, so I don't really work on this website. <a href="https://git.confest.im/boyan_k"> Check out my gitea!</a>
