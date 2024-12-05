@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=confestim&label=Profile%20views&color=0e75b6&style=flat" alt="confestim" /> </p>  
-
 <h3 align="center"> print(chr(3486)) </h3>
 <p align="center"><a href="https://git.confest.im/boyan_k"> More stuff on my Gitea!</a></p>
 <h4 align="center">I have experience with:</h3>  
