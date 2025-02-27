@@ -63,6 +63,9 @@
     <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
     </a>
+    <a href="https://swift.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+    </a>
 </p>
 
 
