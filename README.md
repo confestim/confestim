@@ -66,6 +66,9 @@
     <a href="https://swift.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
     </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" alt="rust" width="40" height="40"/>
+    </a>
 </p>
 
 
